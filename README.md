@@ -26,7 +26,7 @@ Dit is de [ROOT](/MyTowerDefenseGame/) folder van mijn unity project.
 
 ## Product 3: Build op Github
 
-Je maakt in Unity een stabiele ìbuildî van je game waarbij bugs en logs eerst zijn verwijderd. Deze buildfiles upload je in je repository onder releases.  Bij eventuele afwijkingen moeten deze worden gedocumenteerd in de release. (Bijv controller nodig of spelen via netwerk etc..) 
+Je maakt in Unity een stabiele ‚Äúbuild‚Äù van je game waarbij bugs en logs eerst zijn verwijderd. Deze buildfiles upload je in je repository onder releases.  Bij eventuele afwijkingen moeten deze worden gedocumenteerd in de release. (Bijv controller nodig of spelen via netwerk etc..) 
 
 [Release Voorbeeld](https://github.com/erwinhenraat/TowerDefenseTemplate/releases)
 
@@ -45,7 +45,7 @@ Zodra je bugs tegenkomt maak je een issue aan op github. In de issue omschrijf j
 
 ## Product 6: Game design met onderbouwing 
 
-Je gebruikt een game design tool om je game design vast te leggen en te communiceren. Daarnaast onderbouw je de design keuzes ten aanzien van ìplayabilityî en ìreplayabilityî voor je game schriftelijk. 
+Je gebruikt een game design tool om je game design vast te leggen en te communiceren. Daarnaast onderbouw je de design keuzes ten aanzien van ‚Äúplayability‚Äù en ‚Äúreplayability‚Äù voor je game schriftelijk. 
 
 Voorbeeld van een one page design:
 ![](https://external-preview.redd.it/48mnMpA0TbiihGo4HsJiWrJhK72xeTRwV2o70_AKilw.jpg?auto=webp&s=3a1ae18f0e4fba7a465643987cbe9cf409466e53)
@@ -63,29 +63,29 @@ Omschrijf per mechanic welke game design keuzes je hebt gemaakt en waarom je dit
 Ook is er een langzame gepantserde enemy. Deze kan eigenlijk alleen maar worden vernietigd door magische torens die zijn geupgrade. goedkope torens doen bijna geen schade. De speler moet dus een balans gaan zoeken tussen veel goedkope torens en upgraden van torens.
 Tot slot is er een vijand die andere enemies healt dit zorgt ervoor dat de speler een extra nadeel heeft en de torens handmatig de deze healer moet laten targetten hierdoor wordt de speler gedwongen om actiever de game te spelen omdat anders geen enkele enemy meer dood gaat.*
 
-*  **Je game bevat een ìwaveî systeem waarmee er onder bepaalde voorwaarden (tijd/vijanden op) nieuwe waves met vijanden het veld in komen.**
+*  **Je game bevat een ‚Äúwave‚Äù systeem waarmee er onder bepaalde voorwaarden (tijd/vijanden op) nieuwe waves met vijanden het veld in komen.**
 
 *Onderbouwing hier...*
 
-*  **Een ìhealthî systeem waarmee je levens kunt verliezen als vijanden hun doel bereiken en zodoende het spel kunt verliezen.** 
+*  **Een ‚Äúhealth‚Äù systeem waarmee je levens kunt verliezen als vijanden hun doel bereiken en zodoende het spel kunt verliezen.** 
 
 *Onderbouwing hier...*
 
-*  **Een ìresourceî systeem waarmee je resources kunt verdienen waarmee je torens kunt kopen en .evt upgraden.**
+*  **Een ‚Äúresource‚Äù systeem waarmee je resources kunt verdienen waarmee je torens kunt kopen en .evt upgraden.**
 
 *Onderbouwing hier...*
 
-*  **Een ìupgradeî systeem om je torens te verbeteren.**
+*  **Een ‚Äúupgrade‚Äù systeem om je torens te verbeteren.**
 
 *Onderbouwing hier...*
 
-*  **Een ìmovement predictionî systeem waarmee je kan berekenen waar een toren heen moeten schieten om een bewegend object te kunnen raken. (Moeilijk)**
+*  **Een ‚Äúmovement prediction‚Äù systeem waarmee je kan berekenen waar een toren heen moeten schieten om een bewegend object te kunnen raken. (Moeilijk)**
 
 *Onderbouwing hier...*
 
 ## Product 7: Class Diagram voor volledige codebase 
 
-Je brengt je volledige codebase in kaart met behulp van een class diagram. Binnen de classes hoeven geen private members te worden weergegeven. Wel alle public members (fields en methods). Ook geef je indien relevant de relaties tussen je classes weer. Je class diagram plaats je in je readme op github. Evt mag je dit doen m.b.v de [ìMermaidî](https://mermaid.js.org/syntax/classDiagram.html) tool.
+Je brengt je volledige codebase in kaart met behulp van een class diagram. Binnen de classes hoeven geen private members te worden weergegeven. Wel alle public members (fields en methods). Ook geef je indien relevant de relaties tussen je classes weer. Je class diagram plaats je in je readme op github. Evt mag je dit doen m.b.v de [‚ÄúMermaid‚Äù](https://mermaid.js.org/syntax/classDiagram.html) tool.
 
 
 ```mermaid
@@ -142,3 +142,4 @@ Verder worden features op een daarvoor bedoelde feature banch ontwikkeld. Ook ku
 Leg hier uit welke branches jij gaat gebruiken en wat voor namen je hier aan gaat meegeven. Hoe vaak ga je comitten en wat voor commit messages wil je geven?
 
 Meer info over het gebruiken van gitflow [hier](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
