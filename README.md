@@ -24,6 +24,8 @@ Je commit de mappenstructuur van je unity project op github en verwijst vanuit j
 
 Dit is de [ROOT](/MyTowerDefenseGame/) folder van mijn unity project.
 
+Zorg dat deze verwijst naar je Develop branch.
+
 ## Product 3: Build op Github
 
 Je maakt in Unity een stabiele “build” van je game waarbij bugs en logs eerst zijn verwijderd. Deze buildfiles upload je in je repository onder releases.  Bij eventuele afwijkingen moeten deze worden gedocumenteerd in de release. (Bijv controller nodig of spelen via netwerk etc..) 
