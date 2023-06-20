@@ -22,9 +22,6 @@ Bijvoorbeeld:
 
 Je commit de mappenstructuur van je unity project op github en verwijst vanuit je readme naar de root map van je project. Met een netjes en goed gestructureerde mappenstructuur en benamingen van files toon je aan dat je dit leerdoel beheerst. 
 
-plaats ook een screenshot van je mappenstructuur:
-![](https://unity.com/sites/default/files/styles/810_scale_width/public/2022-04/column%20layouts.jpg?itok=YBQMDOkd)
-
 Dit is de [ROOT](/MyTowerDefenseGame/) folder van mijn unity project.
 
 ## Product 3: Build op Github
@@ -142,6 +139,6 @@ De gitflow conventions gaan uit van een extra branch Develop naast de "Master"/"
 
 Verder worden features op een daarvoor bedoelde feature banch ontwikkeld. Ook kun je gebruik maken van een hotfix brancg vanaf develop.
 
-LEg hier uit welke branches jij gaat gebruiken en wat voor namen je hier aan gaat meegeven. Hoe vaak ga je comitten en wat voor commit messages wil je geven?
+Leg hier uit welke branches jij gaat gebruiken en wat voor namen je hier aan gaat meegeven. Hoe vaak ga je comitten en wat voor commit messages wil je geven?
 
 Meer info over het gebruiken van gitflow [hier](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
