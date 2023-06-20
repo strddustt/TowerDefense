@@ -121,7 +121,7 @@ classDiagram
 ## Product 8: Prototype test video
 Je hebt een werkend prototype gemaakt om een idee te testen. Omschrijf if je readme wat het idee van de mechanics is geweest wat je wilde testen en laat een korte video van de gameplay test zien. 
 
-![](https://www.youtube.com/watch?v=CzzRML1swF0)
+[![example test video](https://www.youtube.com/watch?v=CzzRML1swF0/0.jpg)](https://www.youtube.com/watch?v=CzzRML1swF0)
 
 ## Product 9: SCRUM planning inschatting 
 
