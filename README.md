@@ -1,11 +1,10 @@
 # TowerDefenseTemplate
-Dit is een template wat door jullie te gebruiken is voor het juist inleveren van alle producten voor de Towerdefense beroepsopdracht. **Verwijder uiteindelijk de template teksten!**
+omschrijving:
+basic tower defense maar met meerdere path opties (5 of meer). in game heb je idle currency generation die je nodig hebt voor upgrades, en je krijgt een andere currency voor enemies doden die je gebruikt om towers te kopen. towers hebben abilities die of al vanaf het begin er zijn of verschillen per path. je kan de currency van enemies doden omzetten in idle currency.
 
-Begin met een korte omschrijving van je towerdefense game en hoe deze werkt. Plaats ook een paar screenshots.
 
-![not really my game](https://cdn.akamai.steamstatic.com/steam/apps/246420/ss_aaaf33cdb9106bd0801a36049516d95c6f2352b0.600x338.jpg?t=1686321490)
 
-![also not](https://cdn.akamai.steamstatic.com/steam/apps/960090/ss_900d7c00d45ff2a258d4c8d59ee47f7f04854c37.600x338.jpg?t=1686097340)
+
 
 
 ## Product 1: "DRY SRP Scripts op GitHub"
