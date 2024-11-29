@@ -27,5 +27,5 @@ Je maakt een SCRUM planning en geeft daarbij een inschatting aan elke userstory 
 
 Plaats in de readme een link naar je trello en **zorg ervoor dat je deze openbaar maakt**
 
-https://trello.com/b/FoeIV7G0/tower-defense-bo-1
+https://trello.com/b/FoeIV7G0/tower-defense-bo-1   story points zijn comments
 
