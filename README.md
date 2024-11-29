@@ -14,8 +14,7 @@ Omschrijf hier waarom jij denkt dat je in die scripts aan deze eisen voldoet.
 
 Bijvoorbeeld:
 
-*"In dit script heb ik een array gebruikt voor al mijn vijanden die in de nieuwe wave worden gespawnd. Hierdoor heb ik mijzelf niet hoeven herhalen **(DRY)** in de code omdat ik met 1 regel alle enemies kan plaatsen via en for each loop.
-[link naar script](/MyTowerDefenseGame/Assets/Scripts/JustAScript.cs)"*
+*https://github.com/strddustt/TowerDefense/blob/master/Unity/Assets/scipts/attacking%20and%20related/projectilequeue.cs* ik instantiate alle projectiles via een loop, en dit script gaat alleen over het behouden van de queue met projectiles
 
 ## Product 2: "Projectmappen op GitHub"
 
