@@ -12,8 +12,6 @@ basic tower defense maar met meerdere path opties (5 of meer). in game heb je id
 Plaats hier minimaal 1 link naar scripts die voldoen aan de eisen van **"Don't Repeat Yourself (DRY)"** en **"Single Responsibility Principle"**.
 Omschrijf hier waarom jij denkt dat je in die scripts aan deze eisen voldoet.
 
-Bijvoorbeeld:
-
 *https://github.com/strddustt/TowerDefense/blob/master/Unity/Assets/scipts/attacking%20and%20related/projectilequeue.cs* ik instantiate alle projectiles via een loop, en dit script gaat alleen over het behouden van de queue met projectiles
 
 ## Product 2: "Projectmappen op GitHub"
